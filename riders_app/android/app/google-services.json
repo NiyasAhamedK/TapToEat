@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "192432454039",
+    "project_id": "projecta-fd083",
+    "storage_bucket": "projecta-fd083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192432454039:android:60c240b14d64b98968ecd2",
+        "android_client_info": {
+          "package_name": "com.taptoeat.ridersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD08RCmhIdOQZM0KMdXZdAHPZLVtQ7cXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192432454039:android:8809cd61ca41a20968ecd2",
+        "android_client_info": {
+          "package_name": "com.taptoeat.sellersappproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD08RCmhIdOQZM0KMdXZdAHPZLVtQ7cXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192432454039:android:48d9642b412dd95468ecd2",
+        "android_client_info": {
+          "package_name": "com.taptoeat.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD08RCmhIdOQZM0KMdXZdAHPZLVtQ7cXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
